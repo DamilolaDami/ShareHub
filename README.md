@@ -24,6 +24,42 @@ Make MyLinks your own by customizing the app to match your style. Choose from a 
 
 Experience enhanced productivity as ShareHub streamlines your link management. Spend less time searching and more time enjoying the content that matters most to you.
 
+## Privacy Policy
+
+**Last updated: February 2, 2024**
+
+---
+
+## Overview
+
+All Links stored in *MyLinks* are stored locally on your devices.
+
+## Privacy Principles
+
+- We prioritize your privacy:
+  - We do not collect any data from your device.
+  - We do not store any data on our servers.
+  - We do not have access to your data.
+  - We do not track you.
+
+## Commitment to Transparency and Simplicity
+
+- Our commitment to transparency and simplicity:
+  - We do not have any analytics.
+  - We do not have any ads.
+  - We do not use any third-party libraries.
+  - We do not integrate any third-party SDKs.
+  - We do not rely on any third-party frameworks.
+  - We do not incorporate any third-party code.
+  - We do not involve any third-party components.
+
+## Contact Us
+
+Your trust is our priority. If you have any concerns or questions about our privacy policy, please feel free to [contact us](mailto:kabirabdul08091@gmail.com).
+
+Thank you for using *MyLinkse*!
+
+
 ## ☎️ Contact Me
 <p align='center'>
 <a href="https://x.com/DamilolaDami400">
