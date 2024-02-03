@@ -31,3 +31,19 @@ Make ShareHub your own by customizing the app to match your style. Choose from a
 ### Boosted Productivity
 
 Experience enhanced productivity as ShareHub streamlines your link management. Spend less time searching and more time enjoying the content that matters most to you.
+
+## ☎️ Contact Me
+<p align='center'>
+<a href="https://twitter.com/CharlyKeleb">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/charlykeleb.dev" target="blank">
+  <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
+<a href="mailto:charlyykeleb@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="https://www.linkedin.com/in/success-charles-1660a01bb/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="http://wa.me/22964028463?text=Hello Charly Keleb">
+  <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp;
